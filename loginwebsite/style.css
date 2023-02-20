@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: hotpink!important;
+    
+}
+.header{
+    background-color:  !important;
+    margin:0;
+}
+
+
+
+
+.logo{
+    margin: 0;
+}
+
+.container-fluid{
+    background-color: pink !important;
+    
+    
+    
+
+}
+
+.btn-sales{
+    background-color: black;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.btn-log{
+    background-color: black;
+    color: #fff;
+}
+
+
+    
+
+   
+.middle{
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    
+}
+
+
+
+
+.
+.footer{
+    background-color:pink;
+    text-decoration: none;
+    line-height: 1.5;
+
+}
+
+.row{
+    background-color: pink;
+    text-decoration: none;
+}
+
+.icons{
+    margin-top: 100px;
+
+}
